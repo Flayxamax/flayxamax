@@ -27,5 +27,5 @@
 
 ---
 <p align="center" width="100%">
-    <img width="1000" height="300" src="https://media.discordapp.net/attachments/747360902881214468/1389706345036644535/514368516_122163045932516055_5856748070047218765_n.png?ex=688d2564&is=688bd3e4&hm=2f672f3aee9e2b9fdf910ece69c6f26e3d825d90113c8f3b34188ec12b78f66f&=&format=webp&quality=lossless">
+    <img width="1000" height="300" src="https://github.com/user-attachments/assets/dc7b98fd-02fd-4d3f-808c-29318a8213df">
 </p>
