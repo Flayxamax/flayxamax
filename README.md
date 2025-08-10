@@ -1,6 +1,6 @@
 <h1 align="center">Alo, I'm Flay 😺</h1>
 
-![Image](https://media.discordapp.net/attachments/747360902881214468/1400656742030901248/optimized_flayxamax_typewriter_text_dark_1.gif?ex=688d6ebe&is=688c1d3e&hm=fbdf50669afe1761d1f5dc10cee15a0bea013a58ea4882da1042574e798f5366&=&width=1768&height=91)
+![Image](https://media.discordapp.net/attachments/747360902881214468/1400656742479691887/original_flayxamax_typewriter_text_dark_1.gif?ex=68994c3e&is=6897fabe&hm=a055202243bfbe69508c57dc2bd6bd8b0d3071bb2e11d8ca31f5708fdc6d7a7a&=&width=1768&height=91)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ildefonso-lares-rangel-096928345/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/317847945259122688) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/flayxamax/)
